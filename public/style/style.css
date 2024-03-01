@@ -1,0 +1,25 @@
+
+
+.bio img{
+    display: flex;
+    border-radius: 50%;
+}
+
+@media screen and (width<=300px){
+    
+}
+
+@media screen and (width<1000px) and (width>=500px) {
+    .bio img {
+        width: 100px;
+        height: auto;
+    }
+}
+
+@media screen and (width<=1000px) {
+    .bio img {
+        width: 300px;
+        height: auto;
+    }
+
+}
