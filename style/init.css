@@ -5,3 +5,43 @@
                 --font-lg: 1.5rem;
                 --font-xl: 2rem;
             }
+
+/* Custom Show More Button for CV */
+.show-more-container {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.btn-show-more-purple {
+    background-color: #c65094;
+    color: white !important;
+    border: none;
+    padding: 12px 30px;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    font-size: 16px;
+}
+
+.btn-show-more-purple:hover {
+    background-color: #a33d7a;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+}
+
+.btn-show-more-purple:active {
+    transform: translateY(0);
+}
+
+.btn-show-more-purple .icon {
+    width: 20px;
+    height: 20px;
+    fill: white !important;
+}
