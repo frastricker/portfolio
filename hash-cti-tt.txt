@@ -1,4 +1,4 @@
-NAME: relazione_maura_francesco_2017683.pdf
+NAME: yber Threat Intelligence - difesa delle infrastrutture satellitari critiche per la missione BOREALIS.pdf
 PATH: /public/docs/
 ALGORITHM: SHA256
-HASH: DDDEA7182DE811D52C8A52A56BF5B416E82822CF734C1F1E26875CA24625E6E7
+HASH: 4b15cea855d9ec917e7c8c608160c265d4d83ea3
